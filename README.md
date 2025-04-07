@@ -36,10 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JhonnyDEV21/JhonnyDEV21/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
@@ -59,20 +55,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img height="300" src="https://images.bigbadtoystore.com/images/p/full/2024/08/b0b2062b-af3f-40f3-96b1-53365d16fbfb.jpg"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonnyDEV21/JhonnyDEV21/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonnyDEV21/JhonnyDEV21/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JhonnyDEV21/JhonnyDEV21/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
